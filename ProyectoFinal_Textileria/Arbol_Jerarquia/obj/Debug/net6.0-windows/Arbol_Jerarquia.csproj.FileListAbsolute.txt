@@ -1,0 +1,37 @@
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.exe
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.deps.json
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.runtimeconfig.json
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.dll
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.pdb
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.csproj.AssemblyReference.cache
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.Properties.Resources.resources
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.csproj.GenerateResource.cache
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.AssemblyInfoInputs.cache
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.AssemblyInfo.cs
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.csproj.CoreCompileInputs.cache
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.dll
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\refint\Arbol_Jerarquia.dll
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.pdb
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.genruntimeconfig.cache
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\ref\Arbol_Jerarquia.dll
+E:\Desktop\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.Arbol_Jerarquia1.resources
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.exe
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.deps.json
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.runtimeconfig.json
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.dll
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\bin\Debug\net6.0-windows\Arbol_Jerarquia.pdb
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.csproj.AssemblyReference.cache
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.Arbol_Jerarquia1.resources
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.PanelPrincipal.resources
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.Properties.Resources.resources
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.csproj.GenerateResource.cache
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.AssemblyInfoInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.AssemblyInfo.cs
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.csproj.CoreCompileInputs.cache
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.dll
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\refint\Arbol_Jerarquia.dll
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.pdb
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\Arbol_Jerarquia.genruntimeconfig.cache
+E:\Documentos\CICLOS UPN\Ciclo 4\ESTRUCTURA de DATOS\Evaluaciones\ProyectoFinal_Textiles\ProyectoFinal_Textileria\Arbol_Jerarquia\obj\Debug\net6.0-windows\ref\Arbol_Jerarquia.dll

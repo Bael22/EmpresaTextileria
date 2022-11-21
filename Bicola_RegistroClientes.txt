@@ -1,0 +1,6 @@
+VIP;Dilan;2851;2112;dilan@gmail.com;por ahi;Tejeduría;3;56;173,04
+Nuevo;Jose;2851;2112;jose@gmail.com;por ahi;Tejeduría;3;56;198,24
+Frecuente;Susan;2851;2112;susan@gmail.com;por ahi;Alta Costura;3;116;348
+Frecuente;Almendra;2851;2112;almendra@gmail.com;por ahi;Tejeduría;5;56;316,4
+VIP;Dilan;123;312;asda6262;as21;Tejeduría;2;56;112
+VIP;Marco;123;312;asda6262;as21;Tejeduría;4;56;194,04

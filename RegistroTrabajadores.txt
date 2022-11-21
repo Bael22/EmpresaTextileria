@@ -1,0 +1,9 @@
+n00252,000986,Dilan Toledo,251,Atencion al cliente,Miercoles - Lunes   - 3pm a 11pm
+n00253,0551893,Almendra F.,12455656,Supervision de Productos,Lunes - Sabados     - 8am a 6pm
+n00254,0285925,Camila F.,56485465,Almacenamiento y Administracion,Lunes - Sabados     - 8am a 6pm
+n00253,05973515,Ronald,21312321,Supervision de Productos,Martes - Domingo - 2am a 12pm
+n00253,02754026,Jimena Sulca,32423411,Supervision de Productos,Lunes - Sabados     - 8am a 6pm
+n00254,08357359,Miguel Almeida,18632185,Almacenamiento y Administracion,Lunes - Sabados     - 8am a 6pm
+n00252,548485,Diego,12321321,Atencion al cliente,Jueves - Martes       -9am a 5pm
+n00253,484655,Marcos P.,213213,Supervision de Productos,Martes - Domingo - 2am a 12pm
+n00252,05587549,Jimena Sulca,48652986,Atencion al cliente,Lunes - Sabados     - 8am a 6pm
